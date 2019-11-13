@@ -24,7 +24,7 @@ spec:
         app: ecsdemo-frontend
     spec:
       containers:
-      - image: brentley/ecsdemo-frontend:latest
+      - image: brentley/ecsdemo-frontend:dependabot.bundler.loofah-2.3.1
         imagePullPolicy: Always
         name: ecsdemo-frontend
         ports:
