@@ -1,0 +1,1 @@
+{"jobID":"22d26a1a-8639-468f-029f-9379de2143ee","spec":{"type":"policy","cause":{"Message":"","User":"Kofi Kusi Odoi \u003ckofi.kusi@atheon.co.uk\u003e"},"spec":{"default:deployment/ecsdemo-frontend":{"add":{"automated":"true"},"remove":null}}},"result":null}
